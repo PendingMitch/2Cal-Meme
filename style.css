@@ -199,11 +199,12 @@ body {
 }
 
 #resetDataPopUp div {
-    width: 50%;
     display: flex;
     justify-content: space-around;
     justify-items: center;
     align-items: center;
+    min-width: 220px;
+    max-width: 300px;
 }
 
 #resetDataPopUp button {

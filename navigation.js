@@ -5,6 +5,5 @@ function closeResetDataPopUp() {
 }
 
 function openResetDataPopUp() {
-    console.log('asdf')
     resetDataPopUp.style.display = "flex";
 }
