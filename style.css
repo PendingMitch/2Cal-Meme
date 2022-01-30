@@ -205,6 +205,9 @@ body {
     align-items: center;
     min-width: 220px;
     max-width: 300px;
+
+    width: 50%;
+    
 }
 
 #resetDataPopUp button {
